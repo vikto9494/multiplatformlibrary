@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="com.example.multilibrarytest.jvmMain" target="1.6" />
+      <module name="com.example.multilibrarytest.jvmTest" target="1.6" />
+      <module name="org.jetbrains.base64.multilibrarytest.jvmMain" target="1.6" />
+      <module name="org.jetbrains.base64.multilibrarytest.jvmTest" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
