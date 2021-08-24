@@ -3,7 +3,7 @@ plugins {
     id 'maven-publish'
 }
 repositories {
-    mavenCentral()
+    mavenCentral()  
 }
 
 group 'org.jetbrains.base64_test'
